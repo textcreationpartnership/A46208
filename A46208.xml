@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas we are informed, that the number of tories and robbers in the province of Ulster, and some other parts of this kingdom is much increased, notwithstanding many proclamations from this board for apprehending of divers tories, and they are of late grown much more bloody than formerly they have been, so that several robberies, burglaries and murthers are daily committed by them ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46208</idno>
+            <idno type="STC">Wing I976</idno>
+            <idno type="STC">ESTC R178923</idno>
+            <idno type="EEBO-CITATION">16170121</idno>
+            <idno type="OCLC">ocm 16170121</idno>
+            <idno type="VID">104964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104964)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:71)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas we are informed, that the number of tories and robbers in the province of Ulster, and some other parts of this kingdom is much increased, notwithstanding many proclamations from this board for apprehending of divers tories, and they are of late grown much more bloody than formerly they have been, so that several robberies, burglaries and murthers are daily committed by them ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took and John Crook ... and are to be sold by Mary Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 11 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-chamber in Dublin the 26. day of March 1679"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brigands and robbers --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104964:1"/>
+            <!-- PDF PAGE 51 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL,</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We are informed, That the num<g ref="char:EOLhyphen"/>ber of Tories and Robbers in the Pro<g ref="char:EOLhyphen"/>vince of Vlſter, and ſome other Parts of this Kingdom is much increaſed, not<g ref="char:EOLhyphen"/>withſtanding many Proclamations from this Board for apprehending of divers Tories, and they are of late grown much more bloody than formerly they have been, ſo that ſeveral Robberies, Burglaries and Murthers are daily committed by them, to the great damage of many of his Majeſties good Subjects, and terrour of others, and yet few of the ſaid Offenders have been apprehended, or brought unto Iuſtice for their ſaid offences, which hath been chiefly occaſioned (as We are informed) by means of divers of the Inhabi<g ref="char:EOLhyphen"/>tants of the Countrey who have complied with ſuch malefactors, either by declining to reſiſt, or purſue them, or by other of their Re<g ref="char:EOLhyphen"/>lations and Kindred who have concealed, and ſecretly relieved and ſuccoured them, or by ſome Popiſh Prieſts, who have wholly negle<g ref="char:EOLhyphen"/>cted to make diſcoveries of them to the next Magiſtrates or Officers in the reſpective Counties, Garriſons, and Pariſhes whither they reſorted, which (as we are credibly informed) the Popiſh pretended Pariſh-prieſts, where there are any, might very eaſily have done, if
+<pb facs="tcp:104964:2"/>
+               <!-- PDF PAGE 52 -->
+they had minded, or intended the peace and quiet of the reſpective Pa<g ref="char:EOLhyphen"/>riſhes and places wherein they live, or yielded that due obedience un<g ref="char:EOLhyphen"/>to his Majeſties Laws which in duty they ought.</p>
+            <p>Wherefore we concieve it neceſſary in a Caſe of ſo extraordinary a nature as this is, wherein the lives and fortunes of many his Maje<g ref="char:EOLhyphen"/>ſties good Subjects are ſo nearly concerned, and the peace and quiet of the Countrey ſo much diſturbed, to make uſe of extraordinary means to prevent the further growth of ſo great a miſchief.</p>
+            <p>And therefore We do hereby think fit, and accordingly order, that the Kindred and neareſt relations (that is to ſay) the wives, fathers, mothers, brothers, and ſons of ſuch perſons as are known Tories, and are out upon their keeping, or ſhall at any time hereafter become Tories, and go out upon their keeping in any the Counties of this Kingdom be forthwith ſeized upon, and committed to cloſe priſon in the Common Goal of ſuch County where they do reſide, or ſhall be ap<g ref="char:EOLhyphen"/>prehended, there to remain until ſuch Tory or perſon, who is out up<g ref="char:EOLhyphen"/>on his keeping, and to whom they are ſo related ſhall be either killed or taken ſo as to be brought to Iuſtice, and alſo that where there is any Popiſh pretended Pariſh-prieſt of any place wherein any Robbery, Burglary or murther ſhall be hereafter committed by any ſuch To<g ref="char:EOLhyphen"/>ries or perſons who are out upon their keeping, ſuch Popiſh-prieſt ſhall be alſo ſeized upon and committed to cloſe priſon in the common Goal of ſuch County wherein ſuch pariſh doth lye, and ſhall be from thence tranſported beyond the Seas, unleſs within Fourteen dayes after ſuch Robbery, Burglary or murther, the perſons who are guil<g ref="char:EOLhyphen"/>ty thereof ſhall be either killed or taken, or ſuch diſcovery made with<g ref="char:EOLhyphen"/>in that time, as that ſuch Offenders may be thereupon apprehended and brought unto Iuſtice.</p>
+            <p>And We do hereby require the ſeveral Sheriffs and Iuſtices of Peace of the reſpective Counties in this Kingdom, to take care that theſe Our Commands be ſtrictly and duly executed, and alſo that the Laws and Statutes of this Kingdom, and the Proclamations for<g ref="char:EOLhyphen"/>merly iſſued from this Board concerning the keeping of Watches, and raiſing the Hue and Cry be duly executed and performed. And all Of<g ref="char:EOLhyphen"/>ficers and Souldiers of His Majeſties Army, and of the <hi>Militia</hi> in this Kingdom, and all other His Majeſties Officers, and other ſubjects whatſoever are hereby alſo required to uſe their utmoſt endeavours for the taking and apprehending all ſuch Tories &amp; Robbers, as they will anſwer the contrary at their utmoſt peril</p>
+            <closer>
+               <dateline>Given at the <hi>Council-Chamber</hi>in <hi>Dublin</hi> 
+                  <date>the 26. day of <hi>March</hi>1679.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mich: Armach: C.</item>
+                     <item>Jo: Dublin.</item>
+                     <item>Bleſinton.</item>
+                     <item>Granard.</item>
+                     <item>Lanesborough.</item>
+                     <item>Hen: Midenſis.</item>
+                     <item>Char. Meredith<g ref="char:punc">▪</g> 
+                     </item>
+                     <item>Jo: Davys,</item>
+                     <item>Ol<g ref="char:punc">▪</g> St. George.</item>
+                     <item>Geo: Rawden.</item>
+                     <item>Ric: Gethin.</item>
+                     <item>Theo: Jones,</item>
+                     <item>Wm: Flower,</item>
+                     <item>Will: Hill.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin</hi> Printed by <hi>Benjamin Took</hi> and <hi>John Crook,</hi> Printers to King's moſt Excellent Maje<g ref="char:EOLhyphen"/>ſty; And are to be ſo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by <hi>Mary Crook</hi> at his Majeſties Printing-houſe in <hi>Skinner-row</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
